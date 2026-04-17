@@ -5,7 +5,7 @@ import { AppMockup } from './components/AppMockup';
 import { FeatureCard } from './components/FeatureCard';
 
 export default function App() {
-  const downloadUrl = 'https://github.com/USERNAME/REPOSITORY/releases/latest/download/Notes.exe';
+  const downloadUrl = 'https://www.dropbox.com/scl/fi/dhks3kcclqvoy19vzhm2v/Zews-Notes.exe?rlkey=z1ougrxquumihomvmubb17x5m&st=zck6yswg&dl=1';
 
   return (
     <div className="min-h-screen text-white">
