@@ -5,7 +5,7 @@ import { AppMockup } from './components/AppMockup';
 import { FeatureCard } from './components/FeatureCard';
 
 export default function App() {
-  const downloadUrl = 'https://www.dropbox.com/scl/fi/f5osbf7qut67jeijr67vm/Notes-App.exe?rlkey=e5h4nkdnx6qtl1h22egvpy865&st=qtaq6pmb&dl=1';
+  const downloadUrl = 'https://www.dropbox.com/scl/fi/blutlmli25ebes3xwuuag/note-app-Setup-1.0.0.exe?rlkey=bf73yfut563ewb4yf4jliakot&st=e533zdzn&dl=1';
 
   return (
     <div className="min-h-screen text-white">
